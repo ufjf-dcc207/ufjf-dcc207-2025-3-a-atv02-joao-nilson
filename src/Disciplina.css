@@ -1,0 +1,15 @@
+.disciplina{
+    padding: 1em;
+    border: 1px solid lightblue;
+    border-radius: 0.5m;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: blue;
+    display: grid;
+    grid-template-columns: 1fr auto;
+}
+
+.disciplina h1 {
+    background-color: brown;
+    color: wheat;
+}
